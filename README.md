@@ -7,6 +7,10 @@ As legislation continues to take shape, a wide range of sectors will continue fl
   1) who these interests are, 
   2) what they care about,
   3) and how intensely they are likely to lobby to get what they want.
+  
+### On Campaign-finance and Lobbyists
+It's well known that lobbyists confers monetary supports to polticians via campaign-financing or incurring of those campaign-financing.
+
 ### Specific 
 How to evovle current manual interpretation of cluster or latent-discovered become automated? Manual is not always bad, however, we want to prepare the function that acts like a human-labeller, thus, we can collectively introduce the improvement of this function by the practice of the academia.
 

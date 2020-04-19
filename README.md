@@ -14,3 +14,5 @@ How to evovle current manual interpretation of cluster or latent-discovered beco
 - Comprehensive Immigration Reform Act of 2007 https://www.govinfo.gov/content/pkg/BILLS-110s1348pcs/pdf/BILLS-110s1348pcs.pdf
 - Full Text of the Affordable Care Act (P.L. 111-148) (So called "Obama Care") https://www.dpc.senate.gov/dpcissue-sen_health_care_bill.cfm
 
+## Actors
+For industrial actors and their classifications, please refer to https://www.opensecrets.org/downloads/crp/CRP_Categories.txt

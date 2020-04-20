@@ -1,6 +1,9 @@
 # lobby
 Generalize the goal of lobby research and current interested methodologies for those goals.
 
+## Methodological Goal
+1. Transform current sparse adjacency in lobby_database into dense one
+
 ## Goals
 ### General
 As legislation continues to take shape, a wide range of sectors will continue flooding Congress with their lobbyists, trying to make sure that their particular concerns are fully addressed. These visualizations can help to better understand 
